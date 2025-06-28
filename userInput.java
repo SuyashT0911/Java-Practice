@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class userInput{
@@ -11,10 +12,11 @@ public class userInput{
         System.out.println("Enter your name: ");
         name = sc.nextLine();
 
-        System.err.println("Enter your age: ");
+        System.out.println("Enter your age: ");
         age = sc.nextInt();
 
-        System.err.println(greeting+" "+name+" you are "+age+" years old i guess.");
+        System.out.println(greeting+" "+name+" you are "+age+" years old i guess.");
 
+        sc.close();
     }
 }
