@@ -38,11 +38,6 @@ public class arrays {
         // vowels[2] = 'x';                            //To change a array element of index 2
 
         // System.out.println(vowels.length);          //To find legth of an array
-
-
-
-
         // System.out.println(Arrays.toString(vowels));    //prints array
-
     }
 }
