@@ -30,6 +30,12 @@ public class input {
 
         // System.out.println("The addition of given number is "+c);
 
+        System.out.println("Enter two integers to do addition :");
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int c = a+b;
+        System.out.println("The addition of given number is "+c);
+
         sc.close();
     }
 }
