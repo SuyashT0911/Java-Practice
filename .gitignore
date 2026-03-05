@@ -1,1 +1,4 @@
 *.class
+git remote -v
+git remote -v.pub
+.ssh/
