@@ -8,5 +8,13 @@ public class primitiveValues {
         float percent1 = 32.8888888F;
         double percent2 = 32.88888888888888888;
         char character = 'A';
+        System.out.println("isEligible = " + isEligible);
+        System.out.println("age = " + age);
+        System.out.println("price = " + price);
+        System.out.println("number = " + number);
+        System.out.println("viewCount = " + viewCount);
+        System.out.println("percent1 = " + percent1);
+        System.out.println("percent2 = " + percent2);
+        System.out.println("character = " + character);
     }
 }
