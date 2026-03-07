@@ -11,7 +11,6 @@ class Triangle extends Shape{
 }
 
 
-
 public class singleInheritance {
     public static void main(String[] args) {
 
