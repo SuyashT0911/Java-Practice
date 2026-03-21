@@ -1,1 +1,1 @@
-A repository for practicing java
+A repository for practicing java by me
